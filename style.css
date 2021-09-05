@@ -1,0 +1,46 @@
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.status img{
+    width: 80px;
+    margin-top: 70px;
+    border: 3px solid orange;
+    border-spacing: 5px;
+}
+
+.status ul, ul li{
+    display: flex;
+    list-style: none;
+}
+
+.img1{
+    margin-left: 30px;
+}
+
+/* Akhir Section 1 */
+
+/* Section 2 */
+.info ul li img{
+    width: 50px;
+    margin-left: 10px;
+}
+
+.info ul{
+    display: flex;
+}
+
+.info img{
+    width: 500px;
+}
+
+.like li{
+    margin-top: 9px;
+    margin-left: 20px;
+}
